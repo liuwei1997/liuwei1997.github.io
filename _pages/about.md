@@ -91,8 +91,7 @@ During the 2024 Mw 7.5 Noto earthquake in Japan, we found notable complexity in 
 <br/><br/>
 
 - **Global frequency of oceanic and continental supershear earthquakes**
-<div class='paper-box-image'> <img src='images/Turkey_Sum.png' alt="sym" width="100%"></div>
-<div class='paper-box-image'> <img src='images/Maduo_Sum.gif' alt="sym" width="100%"></div>
+<div class='paper-box-image'> <img src='images/Supershear_Sum.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 Earthquakes are supershear when their rupture speed is faster than the shear wave speed. These events are rare but highly destructive owing to the associated strong ground shaking. Only a few supershear earthquakes have been reported previously, most of which were continental. We performed a systematic global search for supershear earthquakes by analysing seismic data from all large shallow strike-slip earthquakes occurring between 2000 and 2020. We found that at least 14.0% of large earthquakes during the study period were supershear, with oceanic events occurring as frequently as continental ones. The transition to and propagation of supershear earthquakes may be promoted in oceanic settings due to the thicker crustal seismogenic zones and the material contrast at oceanic–continental boundaries.
 </div>
