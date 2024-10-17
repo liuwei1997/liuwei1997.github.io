@@ -104,13 +104,13 @@ Earthquakes are supershear when their rupture speed is faster than the shear wav
 
 
 - **Observations on large continental earthquakes**
-<div class='paper-box-image'> <img src='images/Turkey_Sum.png' alt="sym" width="100%"></div>
-<br/>
 <div class='paper-box-image'> <img src='images/Maduo_Sum.gif' alt="sym" width="100%"></div>
+<br/>
+<div class='paper-box-image'> <img src='images/Turkey_Sum.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 <br/>
 
-Test demo.
+Continental earthquakes are dangerous and destructive, especially when they strike near densely populated areas. My research integrates multi-geophysical data, including near-fault strong motion recordings, GPS measurements, and satellite imagery, with cutting-edge source imaging techniques to analyze the rupture processes of these earthquakes. One example is the 2021 Mw 7.4 Maduo, China earthquake (upper figure), where our study revealed a left-lateral strike-slip rupture that propagated bilaterally along a 160 km north-dipping, sub-vertical fault system, which bifurcates near its eastern end. Approximately 80% of the total seismic moment was concentrated on asperities shallower than 10 km, with a peak slip of 5.7 meters. Another example is the 2023 Mw 7.8 and Mw 7.5 earthquake doublet (lower figure). The Mw 7.8 event ruptured a fault extending over 300 km at an average speed near the Rayleigh wave speed (indicated by diamonds in the figure), while the Mw 7.5 event ruptured a 130 km fault at supershear speed (indicated by circles in the figure). Please see our papers ([Xu et al., 2023, JGR: Solid Earth,](https://doi.org/10.1029/2022JB025936) and [Xu et al., 2023, CEE](https://doi.org/10.1038/s43247-023-01030-x)) for more details. 
 </div>
 <br/><br/>
 
