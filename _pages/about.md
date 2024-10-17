@@ -76,7 +76,8 @@ Citation: Xie, Y., Meng, L., Zhou, T., **Xu, L.**, Bao, H., & Chu, R. (2022). Th
 - *2024.09*, John W. West Research Award of UCLA
 - *2024.05*, UC President’s Dissertation Year Award
 - *2024.01*, Seismological Society of America (SSA) Travel Grant for Graduate Students
-- *2023.07*, School on Subduction Zone Processes 2023 Travel Grant                        
+- *2023.07*, School on Subduction Zone Processes 2023 Travel Grant
+- *2019.10*, Shizhe-Suya Award, School of Earth Sciences, Zhejiang University  
 - *2019.09*, 3rd Prize of National Mathematics Competition for College Students
 - *2018.09*, Outstanding Student Scholarship for Second Prize in Academic, Zhejiang University           
 
