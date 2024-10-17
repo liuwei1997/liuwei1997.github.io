@@ -83,7 +83,9 @@ Citation: Xie, Y., Meng, L., Zhou, T., **Xu, L.**, Bao, H., & Chu, R. (2022). Th
 
 # 📖 Educations
 - *2020.09 - Present*, PhD student, Department of Earth, Planetary, and Space Sciences, University of California, Los Angeles, Los Angeles, USA. 
-- *2016.09 - 2020.06*, BS, School of Earth Sciences, Zhejiang University, Hangzhou, China. 
+- *2016.09 - 2020.06*, BS, School of Earth Sciences, Zhejiang University, Hangzhou, China.
+
+# Teaching
 
 # 💬 Invited Talks
 - *2024.09*, Youth Forum, China Earthquake Administration. 
