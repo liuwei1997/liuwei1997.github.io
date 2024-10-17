@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 5th-year PhD student at the University of California, Los Angeles, in the Department of Earth, Planetary, and Space Sciences. My research focuses on understanding global devastating earthquakes. I utilize multi-geophysical data and advanced modeling techniques to explore earthquake mechanisms, rupture propagation, fault unzipping, and their associated hazards. My work spans both continental and oceanic earthquakes, covering continental faults, subduction zones, and oceanic transform boundaries.
+I am currently a 5th-year PhD student at the University of California, Los Angeles, in the Department of Earth, Planetary, and Space Sciences. My research focuses on understanding global devastating earthquakes. I utilize multi-geophysical data and advanced observational and modeling techniques to explore earthquake mechanisms, rupture propagation, fault unzipping, and their associated hazards. My work spans both continental and oceanic earthquakes, covering continental faults, subduction zones, and oceanic transform boundaries.
 
 A key finding from my research is that many large continental and oceanic earthquakes rupture faults faster than the shear wave speeds of rock materials—an occurrence known as **supershear earthquakes**. I have also demonstrated that **fault asperities**, the stronger sections of a fault, play a crucial role during the pre- and co-seismic stages, significantly influencing rupture arrest and propagation.
 
