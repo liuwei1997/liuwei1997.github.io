@@ -114,6 +114,17 @@ Test demo.
 <br/><br/>
 
 
+- **Core-phase Back-Projections**
+<div class='paper-box-image'> <img src='images/Core_Sum.png' alt="sym" width="100%"></div>
+<br/>
+<div class='paper-box-text' markdown="1">
+<br/>
+
+Test demo.
+</div>
+<br/><br/>
+
+
 # 📖 Educations
 - *2020.09 - Present*, PhD student, Department of Earth, Planetary, and Space Sciences, University of California, Los Angeles, Los Angeles, USA. 
 - *2016.09 - 2020.06*, BS, School of Earth Sciences, Zhejiang University, Hangzhou, China.
