@@ -105,6 +105,14 @@ Citation: Xie, Y., Meng, L., Zhou, T., **Xu, L.**, Bao, H., & Chu, R. (2022). Th
 <div class='paper-box-text' markdown="1">
 During the 2024 Mw 7.5 Noto earthquake in Japan, we found notable complexity in the initial rupture stages. A strong fault asperity, which remained unbroken in preceding seismic swarms, slowed down the rupture. Then, a second rupture initiated at the opposite edge of the asperity, and the asperity succumbed to double-pincer rupture fronts. The failure of this high-stress drop asperity drove the earthquake into a large-scale event. Our observations help unravel the crucial role of fault asperities in controlling swarm migration and rupture propagation.
 </div>
+<br/><br/>
+
+- **Observations on large continental earthquakes**
+<div class='paper-box-image'> <img src='images/Turkey_Sum.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'> <img src='images/Maduo_Sum.gif' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+Test demo.
+</div>
 
 
 # 💻 Software
