@@ -92,7 +92,13 @@ Citation: Xie, Y., Meng, L., Zhou, T., **Xu, L.**, Bao, H., & Chu, R. (2022). Th
 - *2023.08*, School of Earth Sciences Seminar, Zhejiang University.
 - *2023.08*, School of Earth and Ocean Sciences Seminar, Tongji University.
 
-# 👄 Teaching
+# 🧑‍🎨 Services
+- *Teaching Fellow*: Remote Sensing in Earth Science (EPS-SCI 150, UCLA, Fall 2024)
+- *Teaching Associate*: Introduction to Earth Science (EPS-SCI 1, UCLA, Fall 2023)
+- *Teaching Assistant*: Earthquake (EPS-SCI 8, UCLA, Winter 2021 and Fall 2022)
+- *Reviewer*: NSF proposals, GRL, JGR, GJI, Seismica, and many others.
+
+
 
 # 📚 Research
 
