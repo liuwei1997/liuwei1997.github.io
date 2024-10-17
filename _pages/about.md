@@ -83,11 +83,10 @@ Citation: Xie, Y., Meng, L., Zhou, T., **Xu, L.**, Bao, H., & Chu, R. (2022). Th
 
 # 📚 Research
 - **Fault asperity controls the swarm activity and rupture development**
-<div class='paper-box'><div class='paper-box-image'> <img src='images/NotoSum.png' alt="sym" width="100%"></div>
+<div class='paper-box-image'> <img src='images/NotoSum.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 <br/>
-During the 2024 Mw 7.5 Noto earthquake in Japan, we found notable complexity in the early stage of the rupture. A strong fault asperity, which remained unbroken in preceding seismic swarms, slowed down the rupture in the first 10 s. Then, a second rupture initiated at the opposite edge of the asperity at 12 s, and the asperity succumbed to double-pincer rupture fronts during 12-20 s. The failure of this high-stress drop asperity drove the earthquake into a large-scale event. Interestingly, we observed a lack of swarm seismicity before 2024 within the asperity, indicating that its behavior as a fault barrier was already apparent during the preceding swarm. Our observations help unravel the crucial role of fault asperities in controlling swarm migration and rupture propagation and underscore the need for detailed seismological and interdisciplinary studies to assess seismic risk in swarm-prone regions. See [our paper] (https://doi.org/10.1126/science.adp0493) for more details.
-</div>
+During the 2024 Mw 7.5 Noto earthquake in Japan, we found notable complexity in the early stage of the rupture. A strong fault asperity, which remained unbroken in preceding seismic swarms, slowed down the rupture in the first 10 s. Then, a second rupture initiated at the opposite edge of the asperity at 12 s, and the asperity succumbed to double-pincer rupture fronts during 12-20 s. The failure of this high-stress drop asperity drove the earthquake into a large-scale event. Interestingly, we observed a lack of swarm seismicity before 2024 within the asperity, indicating that its behavior as a fault barrier was already apparent during the preceding swarm. Our observations help unravel the crucial role of fault asperities in controlling swarm migration and rupture propagation and underscore the need for detailed seismological and interdisciplinary studies to assess seismic risk in swarm-prone regions. See [our paper](https://doi.org/10.1126/science.adp0493) for more details.
 </div>
 <br/><br/>
 
