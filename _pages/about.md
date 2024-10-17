@@ -99,8 +99,13 @@ Citation: Xie, Y., Meng, L., Zhou, T., **Xu, L.**, Bao, H., & Chu, R. (2022). Th
 - *Reviewer*: NSF proposals, GRL, JGR, GJI, Seismica, and many others.
 
 
-
 # 📚 Research
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+</div>
+</div>
+
 
 # 💻 Software
 -[Slowness-Enhanced Back-Projection](https://github.com/liuwei1997/SEBP)
