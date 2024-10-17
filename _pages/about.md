@@ -17,11 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a 5-year PhD student (PhD candidate) at University of California, Los Angeles, Department of Earth, Planetary, and Space Sciences. I work with my advisors (Lingsen Meng, Chen Ji, and Jean-Paul Ampuero) on exploring global devastating earthquakes.
+I am currently a 5th-year PhD student at the University of California, Los Angeles, in the Department of Earth, Planetary, and Space Sciences. Under the guidance of my advisors, Lingsen Meng, Chen Ji, and Jean-Paul Ampuero, my research focuses on understanding globally devastating earthquakes. I utilize multi-geophysical data and advanced modeling techniques to explore earthquake mechanisms, rupture propagation, fault unzipping, and their associated hazards. My work spans both continental and oceanic earthquakes, covering continental faults, subduction zones, and oceanic transform boundaries.
 
-I graduated from School of Earth Sciences, Zhejiang University with a bachelor’s degree.
- 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+A key finding from my research is that many large continental and oceanic earthquakes rupture faults faster than the shear wave speeds of rock materials—an occurrence known as supershear earthquakes. I have also demonstrated that fault asperities, the stronger sections of a fault, play a crucial role during the pre- and co-seismic stages, significantly influencing rupture arrest and propagation.
+
+Currently, my research focuses on two main areas:
+
+1. Advancing observational techniques for global earthquakes: I developed a "core phase Back-Projection" method that utilizes seismic waves traveling through Earth's core to improve the imaging of earthquake rupture propagation on a global scale.
+2. Bridging the gap between natural earthquake observations and numerical/dynamic simulations: My interdisciplinary approach integrates seismic observations with cutting-edge simulations, providing new insights into supershear rupture dynamics.
+
+For more detailed information about my previous and ongoing research, please refer to the **Research** section.
 
 
 # 🔥 News
@@ -86,5 +91,7 @@ Citation: Xie, Y., Meng, L., Zhou, T., **Xu, L.**, Bao, H., & Chu, R. (2022). Th
 - *2023.08*, School of Earth Sciences Seminar, Zhejiang University.
 - *2023.08*, School of Earth and Ocean Sciences Seminar, Tongji University.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Software
+-[Slowness-Enhanced Back-Projection](https://github.com/liuwei1997/SEBP)
+
+-[SEM2PACK](https://github.com/jpampuero/sem2dpack/tree/cycle_thermal_pressurization)
