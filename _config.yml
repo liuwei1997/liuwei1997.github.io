@@ -60,7 +60,7 @@ include:
   - .htaccess
   - _pages
   - files
-  - assets/CV-LiuweiXu-2024.9.docx.pdf
+  - docs/CV-LiuweiXu-2024.9.docx.pdf
 exclude:
   - docs
   - google_scholar_crawler
