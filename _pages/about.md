@@ -85,13 +85,16 @@ Citation: Xie, Y., Meng, L., Zhou, T., **Xu, L.**, Bao, H., & Chu, R. (2022). Th
 - *2020.09 - Present*, PhD student, Department of Earth, Planetary, and Space Sciences, University of California, Los Angeles, Los Angeles, USA. 
 - *2016.09 - 2020.06*, BS, School of Earth Sciences, Zhejiang University, Hangzhou, China.
 
-# Teaching
 
 # 💬 Invited Talks
 - *2024.09*, Youth Forum, China Earthquake Administration. 
 - *2023.11*, Lithospheric Dynamics Seminar Series, University of Southern California.
 - *2023.08*, School of Earth Sciences Seminar, Zhejiang University.
 - *2023.08*, School of Earth and Ocean Sciences Seminar, Tongji University.
+
+# 👄 Teaching
+
+# 📚 Research
 
 # 💻 Software
 -[Slowness-Enhanced Back-Projection](https://github.com/liuwei1997/SEBP)
