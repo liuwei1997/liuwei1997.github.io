@@ -21,7 +21,7 @@ body {
   }
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, h7 {
   margin: 1em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
@@ -52,6 +52,10 @@ h5 {
 
 h6 {
   font-size: $type-size-6;
+}
+
+h7 {
+  font-size: $type-size-7;
 }
 
 small, .small {
