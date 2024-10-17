@@ -68,16 +68,23 @@ Citation: Xie, Y., Meng, L., Zhou, T., **Xu, L.**, Bao, H., & Chu, R. (2022). Th
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*, John W. West Research Award of UCLA
+- *2024.05*, UC President’s Dissertation Year Award
+- *2024.01*, Seismological Society of America (SSA) Travel Grant for Graduate Students
+- *2023.07*, School on Subduction Zone Processes 2023 Travel Grant                        
+- *2019.09*, 3rd Prize of National Mathematics Competition for College Students
+- *2018.09*, Outstanding Student Scholarship for Second Prize in Academic, Zhejiang University           
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - Present*, PhD student, Department of Earth, Planetary, and Space Sciences, University of California, Los Angeles, Los Angeles, USA. 
+- *2016.09 - 2020.06*, BS, School of Earth Sciences, Zhejiang University, Hangzhou, China. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09*, Youth Forum, China Earthquake Administration. 
+- *2023.11*, Lithospheric Dynamics Seminar Series, University of Southern California.
+- *2023.08*, School of Earth Sciences Seminar, Zhejiang University.
+- *2023.08*, School of Earth and Ocean Sciences Seminar, Tongji University.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
