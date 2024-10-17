@@ -26,7 +26,7 @@ Currently, my research focuses on two main areas:
 1. Advancing observational techniques for global earthquakes: I developed a "core phase Back-Projection" method that utilizes seismic waves traveling through Earth's core to improve the imaging of earthquake rupture propagation on a global scale.
 2. Bridging the gap between natural earthquake observations and numerical/dynamic simulations: My interdisciplinary approach integrates seismic observations with cutting-edge simulations, providing new insights into supershear rupture dynamics.
 
-For more detailed information about my previous and ongoing research, please refer to the **Research** section. You can also find my CV here: [Liuwei Xu's Curriculum Vitae](https://liuwei1997.github.io/assets/CV-LiuweiXu-2024.9.pdf).
+For more detailed information about my previous and ongoing research, please refer to the **Research** section. You can also find my CV here: [Liuwei Xu's Curriculum Vitae](https://liuwei1997.github.io/docs/CV-LiuweiXu-2024.9.docx.pdf).
 
 
 # 🔥 News
