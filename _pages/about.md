@@ -117,7 +117,6 @@ Continental earthquakes are dangerous and destructive, especially when they stri
 
 - **Core-phase Back-Projections**
 <div class='paper-box-image'> <img src='images/Core_Sum.png' alt="sym" width="100%"></div>
-<br/>
 <div class='paper-box-text' markdown="1">
 <br/>
 
