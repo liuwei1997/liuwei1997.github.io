@@ -60,7 +60,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - docs/CV-LiuweiXu-2024.9.docx.pdf
 exclude:
   - docs
   - google_scholar_crawler
