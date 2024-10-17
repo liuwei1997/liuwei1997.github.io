@@ -30,7 +30,7 @@ For more detailed information about my previous and ongoing research, please ref
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 My paper on the 2024 Noto earthquake in Japan has been published and featured as the cover article in [Science](https://www.science.org/toc/science/385/6711). 
+- *2024.08*: &nbsp;🎉🎉 Our paper on the 2024 Noto earthquake in Japan has been published and featured as the cover article in [Science](https://www.science.org/toc/science/385/6711). 
 - *2024.05*: &nbsp;🎉🎉 I have been selected as a recipient of the UC President's Dissertation Year Award.
 
 
