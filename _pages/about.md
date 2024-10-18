@@ -19,14 +19,11 @@ redirect_from:
 
 I am currently a 5th-year PhD student at the University of California, Los Angeles, in the Department of Earth, Planetary, and Space Sciences. My research focuses on understanding global devastating earthquakes. I utilize multi-geophysical data and advanced observation and modeling techniques to explore earthquake mechanisms, rupture propagation, fault unzipping, and their associated hazards. My work spans both continental and oceanic earthquakes, covering continental faults, subduction zones, and oceanic transform boundaries.
 
-A key finding from my research is that many large continental and oceanic earthquakes rupture faults faster than the shear wave speeds of rock materials—an occurrence known as **supershear earthquakes**. I have also demonstrated that **fault asperities**, the stronger sections of a fault, play a crucial role during the pre- and co-seismic stages, significantly influencing rupture arrest and propagation.
+A significant focus of my research is on **supershear earthquakes**, where fault rupture speeds exceed the shear wave velocities in rock materials. I have also explored the critical role of **fault asperities** in the rupture process, from the pre-seismic to the co-seismic stages. My work spans from detailed case studies of individual earthquakes, such as the 2021 Mw 7.4 Maduo earthquake and the 2023 Mw 7.8 and Mw 7.5 earthquake doublet, to the development of innovative techniques for earthquake imaging.
 
-Currently, my research focuses on two main areas:
+One of my current projects focuses on improving observational methods for global earthquakes, specifically through the development of a "core phase Back-Projection" method, which uses seismic waves traveling through Earth's core to enhance the imaging of earthquake ruptures on a global scale. In addition, I conduct interdisciplinary research that bridges natural earthquake observations with dynamic simulations, offering new insights into the rupture dynamics of large, destructive earthquakes.
 
-1. Advancing observational techniques for global earthquakes: I developed a "core phase Back-Projection" method that utilizes seismic waves traveling through Earth's core to improve the imaging of earthquake rupture propagation on a global scale.
-2. Bridging the gap between natural earthquake observations and numerical/dynamic simulations: My interdisciplinary approach integrates seismic observations with cutting-edge simulations, providing new insights into supershear rupture dynamics.
-
-For more detailed information about my previous and ongoing research, please refer to the **Research** section. You can also find my CV here: [Liuwei Xu's Curriculum Vitae](https://liuwei1997.github.io/images/CV-LiuweiXu-2024.9.docx.pdf).
+For more information about my research, publications, and ongoing projects, please explore the rest of my website. You can also find my CV here: [Liuwei Xu's Curriculum Vitae](https://liuwei1997.github.io/images/CV-LiuweiXu-2024.9.docx.pdf).
 
 
 # 🔥 News
