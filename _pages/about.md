@@ -35,7 +35,7 @@ For more information about my research, publications, and ongoing projects, plea
 
 [Dual-Initiation Ruptures in the 2024 Noto Earthquake Encircling a Fault Asperity at a Swarm Edge](https://doi.org/10.1126/science.adp0493)
 
-Citation: **Xu, L.**, Ji, C., Meng, L., Ampuero, J.-P., Yunjun, Z., Mohanna, S., Aoki, Y. (2024). Dual-Initiation Ruptures in the 2024 Noto Earthquake Encircling a Fault Asperity at a Swarm Edge. Science, (on cover), 385,871-876(2024). https://doi.org/10.1126/science.adp0493
+Citation: **Xu, L.**, Ji, C., Meng, L., Ampuero, J.-P., Yunjun, Z., Mohanna, S., Aoki, Y. (2024). Dual-Initiation Ruptures in the 2024 Noto Earthquake Encircling a Fault Asperity at a Swarm Edge. Science, (on cover), 385,871-876. https://doi.org/10.1126/science.adp0493
 <br/><br/>
 
 
