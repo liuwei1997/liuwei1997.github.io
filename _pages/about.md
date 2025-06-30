@@ -32,6 +32,11 @@ For more information about my research, publications, and ongoing projects, plea
 
 
 # 📝 Publications 
+[Unzipping of the Conjugate Fault System During the 2024 Mw7.4 Hualien Earthquake](https://doi.org/10.1029/2025GL115218)
+
+Citation: **Xu, L.**, Meng, L., Xu, W., Lin, Y.-Y., Geng, J., Mohanna, S., & Kawamoto, G. (2025). Unzipping of the conjugate fault system during the 2024 Mw7.4 Hualien earthquake. Geophysical Research Letters, 52, e2025GL115218. https://doi.org/10.1029/2025GL115218
+<br/><br/>
+
 
 [Dual-Initiation Ruptures in the 2024 Noto Earthquake Encircling a Fault Asperity at a Swarm Edge](https://doi.org/10.1126/science.adp0493)
 
