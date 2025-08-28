@@ -23,7 +23,7 @@ A significant focus of my research is on **supershear earthquakes**, where fault
 
 One of my current projects focuses on improving observational methods for global earthquakes, specifically through the development of a "core phase Back-Projection" method, which uses seismic waves traveling through Earth's core to enhance the imaging of earthquake ruptures on a global scale. In addition, I conduct interdisciplinary research that bridges natural earthquake observations with dynamic simulations, offering new insights into the rupture dynamics of large, destructive earthquakes.
 
-For more information about my research, publications, and ongoing projects, please explore the rest of my website. You can also find my CV here: [Liuwei Xu's Curriculum Vitae](https://liuwei1997.github.io/images/CV-LiuweiXu-2025.6.docx.pdf). My current email address is **xuliuw1997@ucla.edu**.
+For more information about my research, publications, and ongoing projects, please explore the rest of my website. You can also find my CV here: [Liuwei Xu's Curriculum Vitae](https://liuwei1997.github.io/images/CV-LiuweiXu-2025.8.docx.pdf). My current email address is **xuliuw1997@ucla.edu**.
 
 
 # 🔥 News
