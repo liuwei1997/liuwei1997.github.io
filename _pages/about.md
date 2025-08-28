@@ -134,6 +134,7 @@ Standard Back-Projections (BPs) utilize P-phase recordings from large aperture a
 
 
 # 💬 Invited Talks
+- *2025.08*, Brown Bag Seminar, Caltech.
 - *2024.12*, euSCI Geophysics Seminar, Peking University.
 - *2024.12*, School of Geosciences and Info-Physics Seminar, Central South University.
 - *2024.12*, School of Earth Sciences Seminar, Zhejiang University.
