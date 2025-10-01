@@ -33,6 +33,12 @@ For more information about my research, publications, and ongoing projects, plea
 
 
 # 📝 Publications 
+
+[PKIKP phase back-projection and its application on southern hemisphere earthquake imaging](https://doi.org/10.1029/2025JB031667)
+
+Citation: **Xu, L.**, Meng, L., & Chu, R. (2025). PKIKP phase back-projection and its application on southern hemisphere earthquake imaging. Journal of Geophysical Research: Solid Earth, 130, e2025JB031667. https://doi.org/10.1029/2025JB031667
+<br/><br/>
+
 [Unzipping of the Conjugate Fault System During the 2024 Mw7.4 Hualien Earthquake](https://doi.org/10.1029/2025GL115218)
 
 Citation: **Xu, L.**, Meng, L., Xu, W., Lin, Y.-Y., Geng, J., Mohanna, S., & Kawamoto, G. (2025). Unzipping of the conjugate fault system during the 2024 Mw7.4 Hualien earthquake. Geophysical Research Letters, 52, e2025GL115218. https://doi.org/10.1029/2025GL115218
@@ -123,7 +129,7 @@ Continental earthquakes are dangerous and destructive, especially when they stri
 <div class='paper-box-text' markdown="1">
 <br/>
 
-Standard Back-Projections (BPs) utilize P-phase recordings from large aperture arrays located at teleseismic distances (30°-90°) to image earthquake sources. However, the majority of sizable arrays are in the northern hemisphere, leaving many southern hemisphere earthquakes beyond the teleseismic range. To address this gap, we used core phases—specifically PKIKP and PKPab—that travel through the Earth's core to track rupture propagation during large earthquakes. Our results from core phase BPs applied to three well-studied events—the 2010 Mw 8.8 Chile, 2015 Mw 7.1 Southeast Indian Ridge, and 2021 Mw 7.2 Haiti earthquakes—were consistent with published BPs and/or slip models, confirming the feasibility and reliability of this method. Core phase BPs are particularly valuable when teleseismic arrays are unavailable and have proven effective in imaging bilateral rupture. See [Xu & Meng (2023)](https://doi.org/10.22541/essoar.168748471.16881949/v1) for more details.
+Standard Back-Projections (BPs) utilize P-phase recordings from large aperture arrays located at teleseismic distances (30°-90°) to image earthquake sources. However, the majority of sizable arrays are in the northern hemisphere, leaving many southern hemisphere earthquakes beyond the teleseismic range. To address this gap, we used the core phase—specifically PKIKP—that travel through the Earth's core to track rupture propagation during large earthquakes. Our results from PKIKP phase BP applied to four well-studied events—the 2010 Mw 8.8 Chile,  the 2021 Mw 7.2 Haiti, and the 2021 Mw 7.4 and Mw 8.1 Kermadec earthquakes—were consistent with published BPs and/or slip models, confirming the feasibility and reliability of this method. PKIKP phase BP is particularly valuable when teleseismic arrays are unavailable and have proven effective in imaging bilateral rupture. See [Xu et al. (2025)]([https://doi.org/10.22541/essoar.168748471.16881949/v1](https://doi.org/10.1029/2025JB031667)) for more details.
 </div>
 <br/><br/>
 
