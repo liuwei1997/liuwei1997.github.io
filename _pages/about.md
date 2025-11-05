@@ -35,6 +35,7 @@ For more information about my research, publications, and ongoing projects, plea
 
 # 📝 Publications 
 [Bimaterial effect and favorable energy ratio enabled supershear rupture in the 2025 Mandalay earthquake](https://www.science.org/doi/full/10.1126/science.ady6100)
+
 Citation: **Xu, L.**, Meng, L., Yunjun, Z., Yang, Y., Wang, Y., Hu, C., Weng, H., Xu, W., Su, E., Ji, C. (2025). Bimaterial Effect and Favorable Energy Ratio Enabled Supershear Rupture in the 2025 Mandalay Earthquake. Science, (on cover), 390,476-481. https://www.science.org/doi/10.1126/science.ady6100 
 <br/><br/>
 
