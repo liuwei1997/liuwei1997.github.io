@@ -23,16 +23,20 @@ A significant focus of my research is on **supershear earthquakes**, where fault
 
 One of my current projects focuses on improving observational methods for global earthquakes, specifically through the development of a "core phase Back-Projection" method, which uses seismic waves traveling through Earth's core to enhance the imaging of earthquake ruptures on a global scale. In addition, I conduct interdisciplinary research that bridges natural earthquake observations with dynamic simulations, offering new insights into the rupture dynamics of large, destructive earthquakes.
 
-For more information about my research, publications, and ongoing projects, please explore the rest of my website. You can also find my CV here: [Liuwei Xu's Curriculum Vitae](https://liuwei1997.github.io/images/CV-LiuweiXu-2025.10.docx.pdf). My current email address is **xuliuw1997@ucla.edu**.
+For more information about my research, publications, and ongoing projects, please explore the rest of my website. You can also find my CV here: [Liuwei Xu's Curriculum Vitae](https://liuwei1997.github.io/images/CV-LiuweiXu-2025.11.docx.pdf). My current email address is **xuliuw1997@ucla.edu**.
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Our paper on the 2025 Mandalay earthquake in Myanmar has been published and featured as the cover article in [Science](https://www.science.org/toc/science/390/6772).
 - *2025.08*: &nbsp;🎉🎉 I successfully defended my doctoral thesis.
 - *2024.08*: &nbsp;🎉🎉 Our paper on the 2024 Noto earthquake in Japan has been published and featured as the cover article in [Science](https://www.science.org/toc/science/385/6711). 
 - *2024.05*: &nbsp;🎉🎉 I have been selected as a recipient of the UC President's Dissertation Year Award.
 
 
 # 📝 Publications 
+[Bimaterial effect and favorable energy ratio enabled supershear rupture in the 2025 Mandalay earthquake](https://www.science.org/doi/full/10.1126/science.ady6100)
+Citation: **Xu, L.**, Meng, L., Yunjun, Z., Yang, Y., Wang, Y., Hu, C., Weng, H., Xu, W., Su, E., Ji, C. (2025). Bimaterial Effect and Favorable Energy Ratio Enabled Supershear Rupture in the 2025 Mandalay Earthquake. Science, (on cover), 390,476-481. https://www.science.org/doi/10.1126/science.ady6100 
+<br/><br/>
 
 [PKIKP phase back-projection and its application on southern hemisphere earthquake imaging](https://doi.org/10.1029/2025JB031667)
 
