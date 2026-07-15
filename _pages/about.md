@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 5th-year PhD student at the University of California, Los Angeles, in the Department of Earth, Planetary, and Space Sciences. My research focuses on understanding global devastating earthquakes. I utilize multi-geophysical data and advanced observation and modeling techniques to explore earthquake mechanisms, rupture propagation, fault unzipping, and their associated hazards. My work spans both continental and oceanic earthquakes, covering continental faults, subduction zones, and oceanic transform boundaries.
+I am currently a postdoc researcher at Caltech, in the Division of Geological and Planetary Sciences and Seismo Lab. My research focuses on understanding global devastating earthquakes. I utilize multi-geophysical data and advanced observation and modeling techniques to explore earthquake mechanisms, rupture propagation, fault unzipping, and their associated hazards. My work spans both continental and oceanic earthquakes, covering continental faults, subduction zones, and oceanic transform boundaries.
 
 A significant focus of my research is on **supershear earthquakes**, where fault rupture speeds exceed the shear wave velocities in rock materials. I have also explored the critical role of **fault asperities** in the rupture process, from the pre-seismic to the co-seismic stages. My work spans from detailed case studies of individual earthquakes, such as the 2021 Mw 7.4 Maduo earthquake and the 2023 Mw 7.8 and Mw 7.5 Turkey earthquake doublet, to the development of innovative techniques for earthquake imaging.
 
 One of my current projects focuses on improving observational methods for global earthquakes, specifically through the development of a "core phase Back-Projection" method, which uses seismic waves traveling through Earth's core to enhance the imaging of earthquake ruptures on a global scale. In addition, I conduct interdisciplinary research that bridges natural earthquake observations with dynamic simulations, offering new insights into the rupture dynamics of large, destructive earthquakes.
 
-For more information about my research, publications, and ongoing projects, please explore the rest of my website. You can also find my CV here: [Liuwei Xu's Curriculum Vitae](https://liuwei1997.github.io/images/CV-LiuweiXu-2025.11.docx.pdf). My current email address is **xuliuw1997@ucla.edu**.
+For more information about my research, publications, and ongoing projects, please explore the rest of my website. You can also find my CV here: [Liuwei Xu's Curriculum Vitae](https://liuwei1997.github.io/images/CV-LiuweiXu-2025.11.docx.pdf). My current email address is **xuliuwei@caltech.edu**.
 
 
 # 🔥 News
@@ -139,8 +139,9 @@ Standard Back-Projections (BPs) utilize P-phase recordings from large aperture a
 <br/><br/>
 
 
-# 📖 Educations
-- *2020.09 - Present*, PhD student, Department of Earth, Planetary, and Space Sciences, University of California, Los Angeles, Los Angeles, USA. 
+# 📖 Educations and Appointments
+- *2026.06 - Present*, Postdoc Researcher, Seismological Laboratory, California Institute of Technology, Pasadena, USA.
+- *2020.09 - 2025.12*, PhD, Department of Earth, Planetary, and Space Sciences, University of California, Los Angeles, Los Angeles, USA. 
 - *2016.09 - 2020.06*, BS, School of Earth Sciences, Zhejiang University, Hangzhou, China.
 
 
