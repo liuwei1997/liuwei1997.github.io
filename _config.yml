@@ -3,7 +3,7 @@
 
 # Site Settings
 title                    : "Liuwei Xu"
-description              : "PhD candidate at UCLA"
+description              : "Postdoc researcher at Caltech"
 repository               : "liuwei1997.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -19,12 +19,12 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 author:
   name             : "Liuwei Xu (徐浏威)"
   avatar           : "images/Profile20260104.jpg"
-  bio              : "University of California, Los Angeles"
-  location         : "Los Angeles, USA"
+  bio              : "California Institude of Technology"
+  location         : "Pasadena, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_r3NTeIAAAAJ&hl=en"
-  email            : "xuliuw1997@ucla.edu"
+  email            : "xuliuwei@caltech.edu"
   researchgate     : "https://www.researchgate.net/profile/Liuwei-Xu"
   uri              :
   bitbucket        :
