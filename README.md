@@ -1,72 +1,55 @@
+# Liuwei Xu — academic homepage
 
-<h1 align="center">
-AcadHomepage
-</h1>
+A self-contained redesign for **https://liuwei1997.github.io/**. The original nine-publication list is retained; the research presentation is reorganized around supershear rupture, fault complexity, and source imaging.
 
-<div align="center">
+## 本地查看
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
-</div>
+直接打开 `index.html` 即可查看主要内容。为获得完整的浏览器行为，可在此目录运行：
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+```sh
+python3 -m http.server 4173 --bind 127.0.0.1
+```
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
+然后访问 http://127.0.0.1:4173/ 。无需安装 npm、Ruby、Jekyll 或其他依赖。
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+## 更新到原 GitHub Pages
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+1. 先备份原仓库，或新建一个分支检查新版。
+2. 将此目录内的文件复制到 `liuwei1997.github.io` 仓库根目录，保持 `index.html`、`assets/`、`images/`、`.nojekyll` 在根目录，**不要只上传外层目录**。
+3. 在 GitHub 仓库 Settings → Pages 使用 Deploy from a branch，选择对应发布分支的 `/ (root)`。
+4. 合并到发布分支后，检查原域名、CV 链接、手机菜单和科研图。
 
-## Quick Start
+`.nojekyll` 让 GitHub Pages 直接提供静态文件。原 Jekyll 文件可以留作备份，但新版不依赖它们。若仓库另有自定义构建/部署工作流，应先确认该工作流发布的是这套静态文件。此次交付没有推送或发布远程仓库。
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+## 如何维护
 
-## Debug Locally
+- **研究文字、论文、新闻、简历链接**：编辑 `index.html`。所有核心内容都在 HTML 中，搜索引擎和不运行 JavaScript 的浏览器也能读取。
+- **颜色、排版和手机适配**：`assets/style.css`。
+- **论文年份过滤、图片放大、动画开关**：`assets/main.js`。
+- **地球地图及研究地点**：`assets/home-globe.js`，无需第三方运行库。
+- **网页压缩图片**：`assets/*.webp`；点击放大使用 `images/` 中的原图。
+- **CV**：`images/CV-LiuweiXu-2026.7.docx.pdf`。
+- **社交分享预览**：`assets/social-preview.png`。
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+新增论文时，在 `.publication-list` 中复制一条 `<article class="publication">`，更新 `data-pub-year`、题名、作者、期刊和 DOI；若新增年份，也更新年份筛选按钮和默认总数。
 
-# Acknowledges
+## 功能
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+- 亚洲视角研究地球：真实海陆轮廓、5 个近似研究地点、鼠标和键盘交互。
+- Mandalay 专题：原始科研图 / 超剪切概念示意切换。
+- Noto、PKIKP 与全球超剪切研究图：可放大查看原图。
+- Hualien、Maduo、Türkiye 案例可展开，Maduo 动图手动播放。
+- 原九篇论文按年份筛选，可展开和复制引用。
+- 手机导航、原主页常用锚点兼容、可跳转主要内容、减少动态设置支持。
+- 字体和图像本地托管，无分析追踪、Cookie、第三方脚本或运行时网络依赖。外部论文和个人资料仅在点击相应链接时访问。
+
+## 内容与来源
+
+- 论文、履历、荣誉、报告、教学与旧新闻：来自用户提供的原主页源码。
+- 任职时间按年份展示（2026–Present），避免原资料中月份差异。
+- 未添加新的论文；未加入未公开研究、私人申请材料或其他无关个人文件。
+- Mandalay 研究图：Xu et al. (2025), Science, DOI [10.1126/science.ady6100](https://doi.org/10.1126/science.ady6100)。作者公开档案 [Zenodo 17113746](https://doi.org/10.5281/zenodo.17113746)，`Figures.zip/Figure1.png`，许可 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。原图未修改；网页使用缩小压缩版本，点击后打开原图。
+- 其他科研图、头像和 CV：原主页已使用的公开素材。各图归原作者及相应权利人所有。
+- 首页地图：Natural Earth 1:110m land，公有领域；来源记录在 `assets/home-globe.js`。地点是概略地理定位，不表示震源定位精度。
+- 超剪切概念图：原创 SVG 示意，用于说明物理概念，不是 Mandalay 的数据图或数值模拟结果。
+- Inter 字体：SIL Open Font License，见 `assets/Inter-LICENSE.txt`。
